@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDM4iXXLj8gfylPS2BFOml9CO5_h5326cA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>364513747569</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.saifulhamidTotalxMachineTask</string>
+	<key>PROJECT_ID</key>
+	<string>startx-machine-task</string>
+	<key>STORAGE_BUCKET</key>
+	<string>startx-machine-task.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:364513747569:ios:015b46409cb8e7b53371d0</string>
+</dict>
+</plist>
